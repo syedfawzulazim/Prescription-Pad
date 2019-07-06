@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  width: 50%;
+  margin-left: 330px;
+  color:#FFF8DC;
+  padding:12px;
+
+}
+html{
+  background: url(img/Doc10.jpg) no-repeat fixed;
+
+  background-position: center;
+  background-size: cover;
+
+}
+#doctors {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+
+}
+
+#doctors td, #doctors th {
+  border: 1px solid #ddd;
+  padding: 20px;
+
+}
+
+#doctors tr{background-color: #f2f2f2;}
+
+#doctors tr:hover {background-color: #ddd;}
+
+#doctors th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}

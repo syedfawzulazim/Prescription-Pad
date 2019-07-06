@@ -1,0 +1,33 @@
+
+#doctors {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+
+}
+
+#doctors td, #doctors th {
+  border: 1px solid #ddd;
+  padding: 20px;
+
+}
+
+#doctors tr{background-color: #f2f2f2;}
+
+#doctors tr:hover {background-color: #ddd;}
+
+#doctors th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}
+h1{
+  text-align: left;
+  width: 5%;
+  margin-left:;
+  color:#FFF8DC;
+  padding:12px;
+
+}

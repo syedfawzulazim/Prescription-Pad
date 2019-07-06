@@ -1,0 +1,14 @@
+.modal .container {
+    padding: 16px;
+    text-align:left;
+
+
+    width: 25%;
+    padding: 12px 20px;
+    margin: 150px 500px;
+    display: inline-grid;
+    border: 10px solid #ccc;
+    box-sizing: border-box;
+    background-position:center;
+
+}

@@ -1,0 +1,22 @@
+html{
+  background: url(img/poops.jpg) no-repeat fixed;
+
+  background-position: center;
+  background-size: cover;
+
+}
+
+.modal .container {
+    padding: 16px;
+    text-align:left;
+
+
+    width: 25%;
+    padding: 12px 20px;
+    margin: 25px 470px;
+    display: inline-grid;
+    border: 10px solid #aaa;
+    box-sizing: content-box;
+    background-position:center;
+
+}
